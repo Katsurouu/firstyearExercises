@@ -2,7 +2,7 @@ package IO_readfiles;
 
 import java.io.File;
 
-public class LeesBestandNamen {
+public class LeesBestandsNamen {
 
     public static void printBestandsNamen(String folder){
         File directFolder = new File(folder);
